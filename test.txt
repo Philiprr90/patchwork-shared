@@ -1,6 +1,6 @@
 woah
 cool
 
-Jarivs()
+Jarivs().summon()
 
-Leave.Jarvis()
+Jarvis().leave()
